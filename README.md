@@ -154,16 +154,6 @@ Open Swagger UI and test cache operations
 
 ---
 
-## 🎤 Interview Talking Points
-
-* Designed O(1) LRU cache using HashMap + DLL
-* Implemented TTL using expiry timestamps
-* Added scheduled background cleaner for auto expiration
-* Exposed cache via REST APIs with Swagger
-* Wrote JUnit tests for time-based behavior
-
----
-
 ## 🚀 Future Enhancements
 
 * Full thread safety using ReentrantLocks
@@ -173,7 +163,3 @@ Open Swagger UI and test cache operations
 * Persistence using write-through strategy
 
 ---
-
-## 🏁 Conclusion
-
-This project demonstrates **strong fundamentals in data structures, system design, and backend engineering**, making it suitable for **product-based company interviews**.
